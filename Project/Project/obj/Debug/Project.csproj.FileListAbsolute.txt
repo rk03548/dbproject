@@ -1,0 +1,39 @@
+C:\Users\Ghousadmin\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Ghousadmin\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Ghousadmin\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\Ghousadmin\Desktop\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.exe
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\obj\Debug\Project.pdb
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\bin\Debug\Project.exe.config
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\bin\Debug\Project.exe
+C:\Users\rizwa\Desktop\db project queries\Final\Project\Project\bin\Debug\Project.pdb
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\bin\Debug\Project.exe.config
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\bin\Debug\Project.exe
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\bin\Debug\Project.pdb
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.exe
+C:\Users\rizwa\Desktop\db project queries\FINAL FINAL\Project\Project\obj\Debug\Project.pdb
